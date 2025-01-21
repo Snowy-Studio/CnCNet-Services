@@ -27,13 +27,13 @@
 ## IRC公共服务器列表
 #### RF自用节点
 **以下5个融合节点仅为重聚未来(RF)服务, 其他Mod请使用下面两个**<br>
-自用融合节点01: a-root.**.cn.ru2023.top [3IP, 3个IPv4]<br>
-自用融合节点02: b-root.**.cn.ru2023.top [3IP, 3个IPv4]<br>
-自用融合节点03: c-root.**.cn.ru2023.top [5IP, 4个IPv4, 1个IPv6]<br>
-自用融合节点04: d-root.**.cn.ru2023.top [3IP, 3个IPv4]<br>
-自用融合节点05: g-root.**.sino.ru2023.top [4IP, 3个IPv4, 1个IPv6]
+自用融合节点01: a-root.xx.cn.ru2023.top [3IP, 3个IPv4]<br>
+自用融合节点02: b-root.xx.cn.ru2023.top [3IP, 3个IPv4]<br>
+自用融合节点03: c-root.xx.cn.ru2023.top [5IP, 4个IPv4, 1个IPv6]<br>
+自用融合节点04: d-root.xx.cn.ru2023.top [3IP, 3个IPv4]<br>
+自用融合节点05: g-root.xx.sino.ru2023.top [4IP, 3个IPv4, 1个IPv6]
 
 #### YR公共节点
-**为确保服务器安全, 请添加QQ群733393645获取具体连接信息**<br>
-公共BGP节点01: e-root.******.cn.ru2023.top [2IP, 2个IPv4, 中国大陆境内BGP, 封境外]<br>
-公共BGP节点02: f-root.******.sino.ru2023.top [2IP, 2个IPv4, 中国大陆境内BGP, 境外电信]
+**为确保服务器安全, 部分内容已使用"xx"隐藏, 请添加QQ群733393645获取具体连接信息**<br>
+公共BGP节点01: e-root.xxxxxx.cn.ru2023.top [2IP, 2个IPv4, 中国大陆境内BGP, 封境外]<br>
+公共BGP节点02: f-root.xxxxxx.sino.ru2023.top [2IP, 2个IPv4, 中国大陆境内BGP, 境外电信]
