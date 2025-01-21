@@ -3,24 +3,38 @@
 
 ## CnCNet公共联机服务器列表
 中国华中服务器01: [CN-Hubei] Reunion-CT1, 地点: 中国/湖北/十堰/电信
+
 ---
+
 中国华东服务器01: [CN-Zhejiang] Reunion-EA1, 地点: 中国/浙江/宁波/电信<br>
 中国华东服务器02: [CN-Jiangsu] Reunion-EA2, 地点: 中国/江苏/镇江/BGP<br>
 中国华东服务器03: [CN-Jiangsu] Reunion-Public01, 地点: 中国/江苏/宿迁/电信<br>
 中国华东服务器04: [CN-Jiangsu] Reunion-Public02, 地点: 中国/江苏/宿迁/电信
+
 ---
+
 中国西南服务器01: [CN-Sichuan] Reunion-SW1, 地点: 中国/四川/成都/电信
+
 ---
+
 中国华北服务器01: [CN-Beijing] Reunion-NR1, 地点: 中国/北京<br>
 中国华北服务器02: [CN-Beijing] Reunion-NR2, 地点: 中国/北京
+
 ---
+
 中国华南服务器01: [CN-Guangdong] Reunion-SU1, 地点: 中国/广东/广州<br>
 中国华南服务器02: [CN-Guangdong] Reunion-SU2, 地点: 中国/广东/广州
+
 ---
+
 中国东北服务器01: [CN-Liaoning] Reunion-NE1, 地点: 中国/辽宁/鞍山/电信
+
 ---
+
 中国香港服务器01: [CN-Hongkong] Reunion-HK1, 地点: 中国/香港
+
 ---
+
 美国洛杉矶服务器01: [US-LA] Reunion-US1, 地点: 美国/加利福尼亚/洛杉矶<br>
 美国圣何塞服务器02: [US-SJ] Reunion-US2, 地点: 美国/加利福尼亚/圣何塞
 
