@@ -2,18 +2,18 @@
 本仓库为适用于开源项目xna-cncnet-client的公共联机服务器和IRC大厅服务器
 
 ## CnCNet公共联机服务器列表
-中国华中服务器01: [CN-Hubei] Reunion-CT1, 地点: 中国/湖北/十堰/电信
+中国华中服务器01: [CN-Hubei] Reunion-CT1, 地点: 中国/湖北/十堰
 
 ---
 
-中国华东服务器01: [CN-Zhejiang] Reunion-EA1, 地点: 中国/浙江/宁波/电信<br>
-中国华东服务器02: [CN-Jiangsu] Reunion-EA2, 地点: 中国/江苏/镇江/BGP<br>
-中国华东服务器03: [CN-Jiangsu] Reunion-Public01, 地点: 中国/江苏/宿迁/电信<br>
-中国华东服务器04: [CN-Jiangsu] Reunion-Public02, 地点: 中国/江苏/宿迁/电信
+中国华东服务器01: [CN-Zhejiang] Reunion-EA1, 地点: 中国/浙江/宁波<br>
+中国华东服务器02: [CN-Jiangsu] Reunion-EA2, 地点: 中国/江苏/镇江<br>
+中国华东服务器03: [CN-Jiangsu] Reunion-Public01, 地点: 中国/江苏/宿迁<br>
+中国华东服务器04: [CN-Jiangsu] Reunion-Public02, 地点: 中国/江苏/宿迁
 
 ---
 
-中国西南服务器01: [CN-Sichuan] Reunion-SW1, 地点: 中国/四川/成都/电信
+中国西南服务器01: [CN-Sichuan] Reunion-SW1, 地点: 中国/四川/成都
 
 ---
 
@@ -27,7 +27,7 @@
 
 ---
 
-中国东北服务器01: [CN-Liaoning] Reunion-NE1, 地点: 中国/辽宁/鞍山/电信
+中国东北服务器01: [CN-Liaoning] Reunion-NE1, 地点: 中国/辽宁/鞍山
 
 ---
 
