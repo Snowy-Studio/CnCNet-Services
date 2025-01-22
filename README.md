@@ -2,41 +2,40 @@
 本仓库为适用于开源项目xna-cncnet-client的公共联机服务器和IRC大厅服务器
 
 ## CnCNet公共联机服务器列表
-中国华中服务器01: [CN-Hubei] Reunion-CT1, 地点: 中国/湖北/十堰
+中国华中服务器01: [CN-Hubei] Reunion-CT1, 服务器位置: 中国/湖北/十堰
 
 ---
 
-中国华东服务器01: [CN-Zhejiang] Reunion-EA1, 地点: 中国/浙江/宁波<br>
-中国华东服务器02: [CN-Jiangsu] Reunion-EA2, 地点: 中国/江苏/镇江<br>
-中国华东服务器03: [CN-Jiangsu] Reunion-Public01, 地点: 中国/江苏/宿迁<br>
-中国华东服务器04: [CN-Jiangsu] Reunion-Public02, 地点: 中国/江苏/宿迁
+中国华东服务器01: [CN-Zhejiang] Reunion-EA1, 服务器位置: 中国/浙江/宁波<br>
+中国华东服务器02: [CN-Jiangsu] Reunion-EA2, 服务器位置: 中国/江苏/镇江<br>
+中国华东服务器03: [CN-Jiangsu] Reunion-Public01, 服务器位置: 中国/江苏/宿迁<br>
+中国华东服务器04: [CN-Jiangsu] Reunion-Public02, 服务器位置: 中国/江苏/宿迁
 
 ---
 
-中国西南服务器01: [CN-Sichuan] Reunion-SW1, 地点: 中国/四川/成都
+中国西南服务器01: [CN-Sichuan] Reunion-SW1, 服务器位置: 中国/四川/成都<br>
+中国西南服务器02: <del>[CN-Guizhou] Reunion-SW2, 服务器位置: 中国/贵州/贵阳</del> 年后上线
 
 ---
 
-中国华北服务器01: [CN-Beijing] Reunion-NR1, 地点: 中国/北京<br>
-中国华北服务器02: [CN-Beijing] Reunion-NR2, 地点: 中国/北京
+中国华北服务器01: [CN-Beijing] Reunion-NR1, 服务器位置: 中国/北京<br>
+中国华北服务器02: [CN-Beijing] Reunion-NR2, 服务器位置: 中国/北京
 
 ---
 
-中国华南服务器01: [CN-Guangdong] Reunion-SU1, 地点: 中国/广东/广州<br>
-中国华南服务器02: [CN-Guangdong] Reunion-SU2, 地点: 中国/广东/广州
+中国华南服务器01: [CN-Guangdong] Reunion-SU1, 服务器位置: 中国/广东/广州<br>
+中国华南服务器02: [CN-Guangdong] Reunion-SU2, 服务器位置: 中国/广东/广州
 
 ---
 
-中国东北服务器01: [CN-Liaoning] Reunion-NE1, 地点: 中国/辽宁/鞍山
+中国香港服务器01: <del>[CN-Hongkong] Reunion-HK1, 服务器位置: 中国/香港</del> 年后上线
 
 ---
 
-中国香港服务器01: [CN-Hongkong] Reunion-HK1, 地点: 中国/香港
+美国洛杉矶服务器01: [US-LA] Reunion-US1, 服务器位置: 美国/加利福尼亚/洛杉矶<br>
+美国圣何塞服务器02: [US-SJ] Reunion-US2, 服务器位置: 美国/加利福尼亚/圣何塞
 
----
 
-美国洛杉矶服务器01: [US-LA] Reunion-US1, 地点: 美国/加利福尼亚/洛杉矶<br>
-美国圣何塞服务器02: [US-SJ] Reunion-US2, 地点: 美国/加利福尼亚/圣何塞
 
 ## IRC公共服务器列表
 #### RF自用节点
