@@ -17,7 +17,9 @@
 ---
 
 中国华北服务器01: [CN-Beijing] Reunion-NR1, 服务器位置: 中国/北京<br>
-中国华北服务器02: [CN-Beijing] Reunion-NR2, 服务器位置: 中国/北京
+中国华北服务器02: [CN-Beijing] Reunion-NR2, 服务器位置: 中国/北京<br>
+中国华北服务器03: [CN-Beijing] Reunion-NR3, 服务器位置: 中国/北京<br>
+中国华北服务器04: [CN-Beijing] Reunion-NR4, 服务器位置: 中国/北京
 
 ---
 
