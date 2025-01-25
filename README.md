@@ -7,9 +7,7 @@
 ---
 
 中国华东服务器01: [CN-Zhejiang] Reunion-EA1, 服务器位置: 中国/浙江/宁波<br>
-中国华东服务器02: [CN-Jiangsu] Reunion-EA2, 服务器位置: 中国/江苏/镇江<br>
-中国华东服务器03: [CN-Jiangsu] Reunion-Public01, 服务器位置: 中国/江苏/宿迁<br>
-中国华东服务器04: [CN-Jiangsu] Reunion-Public02, 服务器位置: 中国/江苏/宿迁
+中国华东服务器02: [CN-Jiangsu] Reunion-EA2, 服务器位置: 中国/江苏/镇江
 
 ---
 
